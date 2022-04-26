@@ -78,5 +78,10 @@ Documenta los siguientes pasos:
 
 **15.  Recuerda añadir estas instrucciones con los pantallazos en el fichero README.md**
 
+![imagen19](img/img19.png)
+
+![imagen20](img/img20.png)
 
 **16.  En GitHub entra en Insights/network y visualiza el gráfico del repositorio con los merge y cinco commits.**  
+
+![imagen21](img/img21.png)
